@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ant-design-vue/pro-layout@^0.3.12":
-  version "0.3.12"
-  resolved "https://registry.npmjs.org/@ant-design-vue/pro-layout/-/pro-layout-0.3.12.tgz#d667c98286ee0e9b2ba7dc9f82580754f919c458"
-  integrity sha512-AebZJJlvTx87M2uwGHzReQ2PSk7gXzpg+noMTaj80bbSSCVeijVqLFBV7+NiG0n40kenmmrGzLmF7Lw26/F0Ag==
+"@ant-design-vue/pro-layout@^1.0.1":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@ant-design-vue/pro-layout/-/pro-layout-1.0.13.tgz#08cdfa3b7eabc50ad219ef58a29f43371a819b35"
+  integrity sha512-O0Kixs9C0noECnAVHxnhvkI0MKWqnAJaV9H8O6tr3ad3Bpr4IAPd+f7y9o3y57eDhfZCPaLR3quM4nxfHSgYWA==
   dependencies:
     ant-design-vue "^1.6.2"
     classnames "^2.2.6"
@@ -5078,10 +5078,10 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-forwarded@~0.1.2:
-  version "0.1.2"
-  resolved "https://registry.npm.taobao.org/forwarded/download/forwarded-0.1.2.tgz#98c23dab1175657b8c0573e8ceccd91b0ff18c84"
-  integrity sha1-mMI9qxF1ZXuMBXPozszZGw/xjIQ=
+forwarded@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.2.0.tgz#2269936428aad4c15c7ebe9779a84bf0b2a81811"
+  integrity sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==
 
 fragment-cache@^0.2.1:
   version "0.2.1"
@@ -8810,11 +8810,11 @@ proto-list@~1.2.1:
   integrity sha1-IS1b/hMYMGpCD2QCuOJv85ZHqEk=
 
 proxy-addr@~2.0.5:
-  version "2.0.6"
-  resolved "https://registry.npm.taobao.org/proxy-addr/download/proxy-addr-2.0.6.tgz#fdc2336505447d3f2f2c638ed272caf614bbb2bf"
-  integrity sha1-/cIzZQVEfT8vLGOO0nLK9hS7sr8=
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.8.tgz#624e760fd8ab06b1b8320c2f8506d4422cf8e932"
+  integrity sha512-5nnx0yGyVUcY6t9RnWcARWtwT9F1D8O9rt08htPvnd49W1IgZtmLkhu9WfMzQj1cFxjHIO6connUNVW5k7AVyQ==
   dependencies:
-    forwarded "~0.1.2"
+    forwarded "0.2.0"
     ipaddr.js "1.9.1"
 
 prr@~1.0.1:
